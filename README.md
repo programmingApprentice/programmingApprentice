@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @programmingApprentice
 - 👀 I’m interested in exercise, MMORPG games, game development, database development, github, and obviously coding in general!
-- 🌱 I’m currently learning SQL, Matlab, Unity, Git,
+- 🌱 I’m currently learning SQL, Matlab, and Unity.
 - 💞️ I’m looking to collaborate on MMORPGs, Game Development, and my own personal Game Dev endeavors!
 - 📫 How to reach me ... (still in progress/work)
 
