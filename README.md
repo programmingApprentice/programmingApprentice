@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @programmingApprentice
 - 👀 I’m interested in exercise, MMORPG games, game development, database development, github, and obviously coding in general!
-- 🌱 I’m currently learning SQL, Matlab, and Unity.
-- 💞️ I’m looking to collaborate on MMORPGs, Game Development, and my own personal Game Dev endeavors!
-- 📫 How to reach me ... (still in progress/work)
+- 🌱 On my offtime I enjoy learning different technology stacks, I'm also currently studying artificial intelligence in my off-time.
+- 💞️ I’m always open to expanding my professional network.
+- 📫 To contact me, please reach out to me via my linkedin: www.linkedin.com/wilhenryalmazan
 
 <!---
 programmingApprentice/programmingApprentice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
